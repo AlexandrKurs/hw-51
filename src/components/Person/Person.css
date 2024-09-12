@@ -1,0 +1,16 @@
+.person {
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid #eee;
+    border-radius: 50%;
+    box-shadow: 0 2px 2px #ccc;
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+    text-align: center;
+    background-color: #F0E68C;
+}
+
+.text {
+    margin: 0 20px 0 0;
+}
